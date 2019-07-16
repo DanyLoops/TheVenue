@@ -1,0 +1,137 @@
+SFT+ ALT+ F = butify
+rcc = react class component
+rsc= react stateles component
+
+
+
+EMMET!!!!!!!!!!!!
+
+div#header
+div.page
+div#footer.class1.class2.class3
+
+<div id="header"></div>
+<div class="page"></div>
+<div id="footer" class="class1 class2 class3"></div>
+
+review emmet https://code.visualstudio.com/docs/editor/emmet
+https://docs.emmet.io/abbreviations/syntax/
+https://docs.emmet.io/cheat-sheet/
+
+
+
+
+
+
+
+
+
+
+
+the_venue
+
+Dependencies
+
+NODE- NPM
+install for windows in the page
+https://nodejs.org/es/
+
+
+YARN because we have install node 
+choco install 
+
+
+create-react-app
+
+yarn start- i used this
+npm start
+
+yarn start (enter)to see the poject
+
+
+do it a proyect 
+we use a material react https://material-ui.com/ ... for components to react 3 libraries
+
+//// material ui
+yarn add @material-ui/core@1.4.3 @material-ui/icons@2.0.2
+///// react 3 libraries 
+ react-reveal@1.2.2 react-scroll@1.7.9 react-slick@0.23.1
+
+use resources a file proporcionado por nuestro teacher
+
+
+github to carousel https://github.com/akiran/react-slick
+github to effects reveal https://github.com/rnosov/react-reveal 
+
+
+________________________________________________________________________
+html
+
+<!--Google Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Righteous|Roboto:300,400,500&display=swap" rel="stylesheet">
+
+    <!--React Slider CSS-->
+    <link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
+
+    <!--React Carousel Component-->
+    <link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" /> 
+
+
+
+
+
+
+
+________________________________________________________________________________________________________________________
+
+snippets:
+
+autocomplete react-html the sintaxis */* class . etc
+see the forms to autocomple and doit a glosary
+the path stay in 
+https://stackoverflow.com/questions/39320393/jsx-or-html-autocompletion-in-visual-studio-code
+aand picture in file
+
+EMMMET!!!
+
+
+
+React code snippets
+
+material icon theme for te VSC
+
+es7 ract/redux/graphql... extension for easy work
+
+css peek show you the clas in your code
+Bracket pair colorizar- to see wher close
+autoclose tag- the code in jsx no close automaticly you can use this for close the tags
+
+
+intellisense for css class name- ver para que sirve
+
+
+_______________________________________________________________________________________________________________________
+
+
+
+Sales Dashboard
+
+Autosave
+
+we use a ... to see in github....  How to deploy your react application to GitHub-pages in less than 5 minutes
+https://medium.com/the-andela-way/how-to-deploy-your-react-application-to-github-pages-in-less-than-5-minutes-8c5f665a2d2a
+
+autocomplete in react 
+
+beautify, to order code 
+html to jsx - transformar a jsx codigo html
+html snnipets
+
+
+
+
+Que és 
+
+cOMPONENT DIDI MOUNT
