@@ -2,7 +2,7 @@
   "name": "the_venue",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/DanyLoops/the_Venue",
+  "homepage": "https://github.com/DanyLoops/the_Venue",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
