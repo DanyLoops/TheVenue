@@ -19,12 +19,6 @@ const SideDrawer = (props) => {
 
      }
 
-      
-
-
-
-
-
 
     return (
        <Drawer
