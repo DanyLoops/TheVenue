@@ -1,6 +1,8 @@
 SFT+ ALT+ F = butify
 rcc = react class component
 rsc= react stateles component
+alt gr + acento =[ corchetin
+alt+37 = porcentaje %
 
 
 
@@ -17,6 +19,10 @@ div#footer.class1.class2.class3
 review emmet https://code.visualstudio.com/docs/editor/emmet
 https://docs.emmet.io/abbreviations/syntax/
 https://docs.emmet.io/cheat-sheet/
+
+
+https://www.react-reveal.com/
+https://github.com/fisshy/react-scroll
 
 
 
@@ -62,6 +68,12 @@ use resources a file proporcionado por nuestro teacher
 
 github to carousel https://github.com/akiran/react-slick
 github to effects reveal https://github.com/rnosov/react-reveal 
+
+
+
+static web publishing
+
+https://surge.sh/
 
 
 ________________________________________________________________________
