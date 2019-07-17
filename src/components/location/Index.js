@@ -14,8 +14,6 @@ const Location = () => {
              <div className="location_tag">
                  <div>Location</div>
              </div>
-
-
        </div>
     );
 };

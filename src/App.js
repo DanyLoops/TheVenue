@@ -11,10 +11,6 @@ import Location from './components/location/Index';
 import Footer from './components/header_footer/Footer';
 
 
-
-
-
-
 class App extends Component{
 render() {
   return (
