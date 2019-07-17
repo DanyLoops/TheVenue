@@ -14,9 +14,7 @@ const Carousel = () => {
         speed:500
 
     }
-
-
-
+    
     return (
         <div
         className='carrousel_wrapper'
