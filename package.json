@@ -2,7 +2,7 @@
   "name": "thegitvenue",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DanyLoops/theVenue",
+  "homepage": "https://github.com/DanyLoops/theVenue/",
   "dependencies": {
     "@material-ui/core": "1.4.3",
     "@material-ui/icons": "2.0.2",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
