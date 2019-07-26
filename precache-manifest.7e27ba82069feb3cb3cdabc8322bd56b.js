@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5df29a8a42e2dd987c65b815205813df",
+    "revision": "6746f6c63c4f268ab1e9a60857cef24c",
     "url": "/DanyLoops/theVenue/index.html"
   },
   {
-    "revision": "fe8504c4127d5c2e8f04",
+    "revision": "5d92626a67c81e9cce7d",
     "url": "/DanyLoops/theVenue/static/css/main.d6fa7445.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DanyLoops/theVenue/static/js/2.6b016469.chunk.js"
   },
   {
-    "revision": "fe8504c4127d5c2e8f04",
-    "url": "/DanyLoops/theVenue/static/js/main.d89ac07a.chunk.js"
+    "revision": "5d92626a67c81e9cce7d",
+    "url": "/DanyLoops/theVenue/static/js/main.fb9129a7.chunk.js"
   },
   {
     "revision": "0dd2dac1abe384fa5092",

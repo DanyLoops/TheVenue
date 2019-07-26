@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DanyLoops/theVenue/static/css/main.d6fa7445.chunk.css",
-    "main.js": "/DanyLoops/theVenue/static/js/main.d89ac07a.chunk.js",
-    "main.js.map": "/DanyLoops/theVenue/static/js/main.d89ac07a.chunk.js.map",
+    "main.js": "/DanyLoops/theVenue/static/js/main.fb9129a7.chunk.js",
+    "main.js.map": "/DanyLoops/theVenue/static/js/main.fb9129a7.chunk.js.map",
     "runtime~main.js": "/DanyLoops/theVenue/static/js/runtime~main.ea6c8ed3.js",
     "runtime~main.js.map": "/DanyLoops/theVenue/static/js/runtime~main.ea6c8ed3.js.map",
     "static/js/2.6b016469.chunk.js": "/DanyLoops/theVenue/static/js/2.6b016469.chunk.js",
     "static/js/2.6b016469.chunk.js.map": "/DanyLoops/theVenue/static/js/2.6b016469.chunk.js.map",
     "index.html": "/DanyLoops/theVenue/index.html",
-    "precache-manifest.4e65d01cb45a2d0a7013d5f33585ba90.js": "/DanyLoops/theVenue/precache-manifest.4e65d01cb45a2d0a7013d5f33585ba90.js",
+    "precache-manifest.7e27ba82069feb3cb3cdabc8322bd56b.js": "/DanyLoops/theVenue/precache-manifest.7e27ba82069feb3cb3cdabc8322bd56b.js",
     "service-worker.js": "/DanyLoops/theVenue/service-worker.js",
     "static/css/main.d6fa7445.chunk.css.map": "/DanyLoops/theVenue/static/css/main.d6fa7445.chunk.css.map",
     "static/media/slide_one.jpg": "/DanyLoops/theVenue/static/media/slide_one.84753208.jpg",
