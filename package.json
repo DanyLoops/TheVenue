@@ -2,7 +2,7 @@
   "name": "thegitvenue",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://DanyLoops.github.io/theVenue",
+  "homepage": "http://danyloops.github.io/theVenue",
   "dependencies": {
     "@material-ui/icons": "2.0.2",
     "gh-pages": "^2.0.1",
