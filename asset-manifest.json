@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/DanyLoops/theVenue/static/css/main.d6fa7445.chunk.css",
-    "main.js": "/DanyLoops/theVenue/static/js/main.fb9129a7.chunk.js",
-    "main.js.map": "/DanyLoops/theVenue/static/js/main.fb9129a7.chunk.js.map",
-    "runtime~main.js": "/DanyLoops/theVenue/static/js/runtime~main.ea6c8ed3.js",
-    "runtime~main.js.map": "/DanyLoops/theVenue/static/js/runtime~main.ea6c8ed3.js.map",
-    "static/js/2.6b016469.chunk.js": "/DanyLoops/theVenue/static/js/2.6b016469.chunk.js",
-    "static/js/2.6b016469.chunk.js.map": "/DanyLoops/theVenue/static/js/2.6b016469.chunk.js.map",
-    "index.html": "/DanyLoops/theVenue/index.html",
-    "precache-manifest.7e27ba82069feb3cb3cdabc8322bd56b.js": "/DanyLoops/theVenue/precache-manifest.7e27ba82069feb3cb3cdabc8322bd56b.js",
-    "service-worker.js": "/DanyLoops/theVenue/service-worker.js",
-    "static/css/main.d6fa7445.chunk.css.map": "/DanyLoops/theVenue/static/css/main.d6fa7445.chunk.css.map",
-    "static/media/slide_one.jpg": "/DanyLoops/theVenue/static/media/slide_one.84753208.jpg",
-    "static/media/slide_three.jpg": "/DanyLoops/theVenue/static/media/slide_three.9aa09a50.jpg",
-    "static/media/slide_two.jpg": "/DanyLoops/theVenue/static/media/slide_two.3a3ffd36.jpg"
+    "main.css": "/theVenue/static/css/main.d6fa7445.chunk.css",
+    "main.js": "/theVenue/static/js/main.abaaf010.chunk.js",
+    "main.js.map": "/theVenue/static/js/main.abaaf010.chunk.js.map",
+    "runtime~main.js": "/theVenue/static/js/runtime~main.6d5607f9.js",
+    "runtime~main.js.map": "/theVenue/static/js/runtime~main.6d5607f9.js.map",
+    "static/js/2.cbaaaeb0.chunk.js": "/theVenue/static/js/2.cbaaaeb0.chunk.js",
+    "static/js/2.cbaaaeb0.chunk.js.map": "/theVenue/static/js/2.cbaaaeb0.chunk.js.map",
+    "index.html": "/theVenue/index.html",
+    "precache-manifest.5807d5d5223e17f9b10da4957b48eef0.js": "/theVenue/precache-manifest.5807d5d5223e17f9b10da4957b48eef0.js",
+    "service-worker.js": "/theVenue/service-worker.js",
+    "static/css/main.d6fa7445.chunk.css.map": "/theVenue/static/css/main.d6fa7445.chunk.css.map",
+    "static/media/slide_one.jpg": "/theVenue/static/media/slide_one.84753208.jpg",
+    "static/media/slide_three.jpg": "/theVenue/static/media/slide_three.9aa09a50.jpg",
+    "static/media/slide_two.jpg": "/theVenue/static/media/slide_two.3a3ffd36.jpg"
   }
 }
