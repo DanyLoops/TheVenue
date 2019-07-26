@@ -1,8 +1,8 @@
 {
-  "name": "the_venue",
+  "name": "thegitvenue",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DanyLoops/the_Venue",
+  "homepage": "https://github.io/DanyLoops/theVenue",
   "dependencies": {
     "@material-ui/icons": "2.0.2",
     "gh-pages": "^2.0.1",
@@ -14,12 +14,13 @@
     "react-slick": "0.23.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "predeploy": "yarn run build",
+    "predeploy":"npm run build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+   
   },
   "eslintConfig": {
     "extends": "react-app"
